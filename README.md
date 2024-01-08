@@ -10,4 +10,4 @@ This app can perform the simple functions of a calculator based on IOS Calculato
 Hantaro
 
 ## Release date
-2021 - 01 - 08
+2024 - 01 - 08
